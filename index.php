@@ -1,3 +1,3 @@
 <body >
-<title >Hola mundo <title/>
-<body/>
+<title >Hola mundo </title>
+</body>
